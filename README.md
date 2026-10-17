@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @SI-LC
-- 👀 I’m interested in ... Everything
-- 🌱 I’m currently learning ... AI
-- 💞️ I’m looking to collaborate on ... Product Management
-- 📫 How to reach me ... simon.cole.uk@gmail.com
+### Simon Cole
 
-<!---
-SI-LC/SI-LC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Product Manager at [Tray.ai](https://tray.ai) in London. I run the platform team, focused on making self-serve AI products enterprise-ready.
+
+- Helped launch [Helix](https://helix.tray.ai), the governed runtime for AI-built apps
+- Brought the Tray platform into Claude Code, Codex, Cursor and Antigravity over MCP
+- Build hands-on with AI coding agents
+
+[LinkedIn](https://www.linkedin.com/in/simoncolelondon) · simon.cole.uk@gmail.com
